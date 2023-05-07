@@ -1,0 +1,77 @@
+/*
+Colores de mi sitio web
+primary: #3c00ff
+segundary: #0F6292
+light: #16FF00
+info: #FFED00
+*/
+
+.bg-primary{
+    background-color: #a7911794;
+    border-radius: 40px;
+}
+
+.text-light{
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 2px black;
+}
+
+.text-center{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.text-right{
+    text-align: right;
+}
+.text-segundary{
+    color: #ffffff;
+    font-size: 17px;
+
+}
+.width-100{
+    width: 100px;
+}
+.bg-info{
+    background-color: #91ff008e;
+    font-family: cursive;
+    text-shadow: 2px 2px 2px black;
+    border-radius: 2vh;
+    
+
+}
+.text-white{
+    color: rgb(19, 17, 17);
+    border-radius: 40px;
+}
+.bg-segundary{
+    color: rgba(0, 0, 0, 0.568);
+}
+body{
+    background-image: url(https://pbs.twimg.com/tweet_video_thumb/E3ygzNSWYAACPij.jpg:large);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button{
+    border-radius: 20px;
+    box-shadow: 1px 1px 1px  rgb(249, 244, 244);
+    gap: 10%;
+}
+
+p{
+    font-size: 30px;
+}
+
+.titulo{
+    margin-top: 7%;
+}
+.letre{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 2px black;
+}
